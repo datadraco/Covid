@@ -1,5 +1,5 @@
 # Assignment 2: COVID
-This repository contains code and analysis of COVID-19 cases in the United States, using data from [The New York Times](https://github.com/nytimes/covid-19-data/).
+This repository contains code and analysis of COVID-19 cases in the United States, using data from [The New York Times](https://github.com/nytimes/covid-19-data/) and was completed for an assignment for the INFO 201 course at the University of Washington in February of 2021
 
 
 ## Analysis Reflections
